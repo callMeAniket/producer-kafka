@@ -1,4 +1,4 @@
-name := """play-scala-proj-1"""
+name := """producerkafka"""
 organization := "com.bheeshm"
 
 version := "1.0-SNAPSHOT"
